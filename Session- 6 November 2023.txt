@@ -1,0 +1,109 @@
+Date: 6 November 2023
+
+Session-1 (Introduction to Programming)
+
+Programming a a way to develop an application to perform a specific task. Like: console, window applications, web applications, mobile applications, distributed applications etc.
+
+
+
+Application/Software: Set of various programs
+
+Program: Set of instruction to perform a specific task, such as copy, cut, paste, select, find, replace etc.
+
+To create any program, we need programming language.
+
+C, C++, Python, Java, C# etc.
+
+What is the need of programming language?
+
+Programming languages are important to communication with computer system in its own language which is called as binary language/machine language.
+
+Computer is an electronic device hence cannot understand human language. We need specific kind of system software (Compiler/Interpreter) to convert human instructions to machine understanble instructions and vice versa.
+
+
+Types of computer languages:
+
+1. Low level : machine lanaguage, assembly language
+2. Middle level : C (System programming)
+3. High level : C++, Python, C#, Java, PHP, Ruby, R, Kotlin etc.
+
+In case of machine language (Binary language) we never need any translator to convert instruction in machine understandable lanaguage.
+
+For example:
+
+1. A : Key pressed by user on Keyboard but your computer is not able to understand this is A
+
+First step : ASCII of key : A
+
+American standard code for Information interchange
+
+7/8 Bits of code for wach and every (Keyboard)
+
+ASCII code of A is 65 (Decimal number 0-9). This decimal number must be converted into Binary code (0/1)
+
+(65) is decimal
+
+Task: Number System:
+
+1. Decimal 
+2. Binary
+3. Octal 
+4. Hexa 
+
+Problem: Create an application like PayTM (Digital Money transaction app)
+
+1. Requirement Analysis : (SRS : Software requirement specification) (System analyst)
+
+2. System Design (Creating models or prototype)
+	Algorithms, Flowcharts, Pseudocodes, Class diagrams, UML, ER diagrams, DFDs etc.
+	LLD/HLD (Low level design and High level design)
+
+3. Development (coding) phase
+	Any programming language
+	(Front end developers, back end developers and DBA)
+
+4. Testing phase : Quality check/ Bugs/ Test cases
+Testers are trying to findout the quality of product developed by coders (Software testers, Manual Tester, automated testers)
+
+5. Implementation (End user starts using application)
+
+6. Maintenance phase (support engineers)
+
+
+Topic continue on 7 Number : Programming language
+
+
+Home assignment:
+Task-1: Google about various kind of application.
+Task-2: Read about Number systems
+Task-3: Read about SDLC (Software Development Life Cycle).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
