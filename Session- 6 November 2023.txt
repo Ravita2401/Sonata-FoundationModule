@@ -2,17 +2,14 @@ Date: 6 November 2023
 
 Session-1 (Introduction to Programming)
 
-Programming a a way to develop an application to perform a specific task. Like: console, window applications, web applications, mobile applications, distributed applications etc.
-
+Programming is a way to develop an application to perform a specific task. Like: console, window applications, web applications, mobile applications, distributed applications etc.
 
 
 Application/Software: Set of various programs
 
 Program: Set of instruction to perform a specific task, such as copy, cut, paste, select, find, replace etc.
 
-To create any program, we need programming language.
-
-C, C++, Python, Java, C# etc.
+To create any program, we need programming language. Like (C, C++, Python, Java, C# etc.)
 
 What is the need of programming language?
 
@@ -71,7 +68,6 @@ Testers are trying to findout the quality of product developed by coders (Softwa
 
 
 Topic continue on 7 Number : Programming language
-
 
 Home assignment:
 Task-1: Google about various kind of application.
