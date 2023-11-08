@@ -1,0 +1,63 @@
+Date : 7 November 2023
+
+Topic : Programming Fundamentals
+
+System Design (Phase-2 of SDLC)
+DSA (Data Structure and Algorithm) Very imp for Product based companies
+
+Qualities of Software developers (Logic building and problem solving skills)
+
+1. Are you able to understand the problem?
+2. If Yes, are you able to findout the best and optimized solution of given problem statement?
+
+1. Algorithm : Step by step standard process which can be used to findout the solution of given problem in a finite set of steps.
+
+Problem : Write an algorithm to create an application that can be used to findout the sum of two Integer values.
+
+NUmbers which can present on Number line (-ve, 0, +ve)
+
+End User : The person who will use the application (This is not developer, Not a tester, Not a member from Project team)
+
+Solution:
+
+START
+	1. Read 2 Integer values number1 and number2 from end user	
+	2. result= number1+number2
+	3. Print result
+STOP
+
+Note: number1, number2 and result are called as variables
+variables are the memory location (RAM) where we can store some values and use these values while exceuting the program. also we can change these values.
+
+RAM (Random access memory) : Primary memory and only memory which is accessible to processor.
+
+Problem : Write an algorithm to create an application that can be used to findout the sum of two Integer values. Check values must be in between the range of 100 to 500.
+
+
+START
+	1. Read 2 Integer values number1 and number2 from end user	
+	2. if (number1>=100 and number1<=500)  and (number2>=100 and number2<=500)	
+		then
+		result= number1+number2
+		Print result
+	   else
+		Print "Values are not in valid range"	
+STOP
+
+Note:
+Relational operators: <, >, <=, >=, !=, ==   (These operators are used to perform comparison in two values and on the basis of comparison we will result in form of Boolean values (True or False)
+
+Logical operators: and is logical operator, which is used to combine two conditions and it will also give the final outcome in form of boolean value (True or false). and will return TRue if both the conditions are True, else it will return False.
+
+
+AND operator is working like AND logic gate
+
+
+Selection statement (If_else)
+
+Home Assignment	Read about selection constructs in details
+
+
+2. Flowchart
+
+Download and Install Raptor : https://raptor.martincarlisle.com/
