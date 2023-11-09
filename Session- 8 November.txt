@@ -1,0 +1,70 @@
+Date: 8 November 2023
+
+Topic : Flowchart Interpreter tool (Raptor)
+
+A way to draw the solution of given problem statement. Here we are using some specific graphical symbols to denote every step of our program.
+
+Input
+Output
+Arithmetic expressions
+Decision box
+Looping constructs
+Procedures
+Terminal box (Start or Ending)
+Flow lines
+Connectors
+
+Problem : (Nested if: if within if/ if within else)
+
+Syntax:
+
+if(condition){ //outer if
+	//statements
+	if(condition){ //inner if or nested if
+		//statements
+	} // closing of inner if
+	else{
+		//this else belongs to nested if
+	}
+} // closing of outer if
+else{
+	// This else belongs to outer if
+}
+
+
+Example of Nested if:
+
+Draw a flowchart to print the largest of 3 entered numbers by end user
+
+number1=23
+number2=67
+number3=54
+
+if(number1>number2){
+	if(number1>number3){
+		Print number1
+	}
+	else{
+		Print number3
+	}
+}
+else{
+	if(number2>number3){
+		Print number2
+	}
+	else{
+		Print number3
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
